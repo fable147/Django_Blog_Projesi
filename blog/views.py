@@ -25,6 +25,7 @@ def About(request):
     return render(request, 'blog/about.html')
 
 
+
 # class for post creation we did inheritance LoginRequiredMixin class to make sure that users are login before be able to open this page
 class PostCreateView(LoginRequiredMixin, CreateView):
     model = Post

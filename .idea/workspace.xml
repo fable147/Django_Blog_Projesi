@@ -19,14 +19,23 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b6e84ab5-92f5-4c12-ad34-5714b6ba4a14" name="Default Changelist" comment="" />
+    <list default="true" id="b6e84ab5-92f5-4c12-ad34-5714b6ba4a14" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1nImRsm6y6x9G0E4mGrnnrjykgO" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -35,8 +44,9 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../aıkıntılı projeler/KEEP SAFE YOUR DATA" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
@@ -98,32 +108,13 @@
   <component name="VcsManagerConfiguration">
     <ignored-roots>
       <path value="$PROJECT_DIR$/.." />
+      <path value="$PROJECT_DIR$" />
     </ignored-roots>
   </component>
   <component name="WindowStateProjectService">
-    <state x="549" y="187" key="FileChooserDialogImpl" timestamp="1611132462165">
+    <state x="549" y="187" key="FileChooserDialogImpl" timestamp="1636338985563">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="549" y="187" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1611132462165" />
-    <state width="1515" height="223" key="GridCell.Tab.0.bottom" timestamp="1611348590297">
-      <screen x="0" y="0" width="1536" height="864" />
-    </state>
-    <state width="1515" height="223" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1611348590297" />
-    <state width="1515" height="223" key="GridCell.Tab.0.center" timestamp="1611348590297">
-      <screen x="0" y="0" width="1536" height="864" />
-    </state>
-    <state width="1515" height="223" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1611348590297" />
-    <state width="1515" height="223" key="GridCell.Tab.0.left" timestamp="1611348590297">
-      <screen x="0" y="0" width="1536" height="864" />
-    </state>
-    <state width="1515" height="223" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1611348590297" />
-    <state width="1515" height="223" key="GridCell.Tab.0.right" timestamp="1611348590297">
-      <screen x="0" y="0" width="1536" height="864" />
-    </state>
-    <state width="1515" height="223" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1611348590297" />
-    <state x="277" y="77" key="SettingsEditor" timestamp="1611087496998">
-      <screen x="0" y="0" width="1536" height="864" />
-    </state>
-    <state x="277" y="77" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1611087496998" />
+    <state x="549" y="187" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1636338985563" />
   </component>
 </project>
